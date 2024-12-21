@@ -1,0 +1,3 @@
+# Type Error in TypeScript
+This repository contains a simple TypeScript program that demonstrates a common type error: assigning an array of strings to a string variable. The error message 'Type 'string[]' is not assignable to type 'string'' is displayed in the console.
+The solution involves changing the type of the variable to accept arrays or modifying the function to handle arrays of strings appropriately.
